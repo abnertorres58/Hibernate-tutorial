@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javax.activation-1.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Aditional jars for Java 9,10,11/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Aditional jars for Java 9,10,11/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Aditional jars for Java 9,10,11/jaxb-core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Aditional jars for Java 9,10,11/jaxb-impl-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
