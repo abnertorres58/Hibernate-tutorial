@@ -29,6 +29,10 @@ public class Student {
         this.email = email;
     }
 
+    public int getId() {
+        return id;
+    }
+
     public String getFirstName() {
         return firstName;
     }
